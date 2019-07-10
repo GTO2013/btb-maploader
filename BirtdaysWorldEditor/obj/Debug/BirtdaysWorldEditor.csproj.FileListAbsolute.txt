@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\bin\Debug\BirtdaysWorldEditor.exe.config
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\bin\Debug\BirtdaysWorldEditor.exe
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\bin\Debug\BirtdaysWorldEditor.pdb
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\obj\Debug\BirtdaysWorldEditor.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\obj\Debug\BirtdaysWorldEditor.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\obj\Debug\BirtdaysWorldEditor.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\obj\Debug\BirtdaysWorldEditor.exe
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\obj\Debug\BirtdaysWorldEditor.pdb
+d:\documents\visual studio 2015\Projects\BirtdaysWorldEditor\BirtdaysWorldEditor\obj\Debug\BirtdaysWorldEditor.mainForm.resources
